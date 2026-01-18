@@ -24,4 +24,5 @@ Rear Fan: (Again, so hot air can leave the case)
 
 Please refer to the below infographic for more information:
 
+![airflow](https://i.imgur.com/ozQ6VtU.jpeg)
 
