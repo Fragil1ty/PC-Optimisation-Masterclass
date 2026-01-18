@@ -13,3 +13,6 @@ This is a big no-no. This seems to be a common misconception spread by system in
 Because then air, generally cool/cold air will be blowing down on the VRMs and the memory which then cools down the entire system, reduces instability like crazy and gives you a more useable computer as a whole. It's that simple.
 
 # So what is the best fan orientation?
+
+Top Fans: Intake (which blows air down into the case).
+Bottom Fans: Intake (so the graphics card gets fresh air from the bottom).
