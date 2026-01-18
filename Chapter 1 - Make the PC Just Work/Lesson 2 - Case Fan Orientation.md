@@ -20,7 +20,7 @@ Bottom Fans: Intake (So the graphics card gets fresh air from the bottom).
 
 Side Fans: Exhaust (So that hot air can leave the case)
 
-Rear Fan: (Again, so hot air can leave the case)
+Rear Fan: Exhaust (Again, so hot air can leave the case)
 
 Please refer to the below infographic for more information:
 
