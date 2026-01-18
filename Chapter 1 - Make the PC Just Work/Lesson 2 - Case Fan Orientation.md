@@ -14,6 +14,14 @@ Because then air, generally cool/cold air will be blowing down on the VRMs and t
 
 # So what is the best fan orientation?
 
-Top Fans: Intake (which blows air down into the case).
+Top Fans: Intake (Which blows air down into the case).
 
-Bottom Fans: Intake (so the graphics card gets fresh air from the bottom).
+Bottom Fans: Intake (So the graphics card gets fresh air from the bottom).
+
+Side Fans: Exhaust (So that hot air can leave the case)
+
+Rear Fan: (Again, so hot air can leave the case)
+
+Please refer to the below infographic for more information:
+
+![airflow orientation image](https://ibb.co/wNpwbjcD)
