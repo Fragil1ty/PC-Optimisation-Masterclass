@@ -26,3 +26,8 @@ Please refer to the below infographic for more information:
 
 ![airflow](https://i.imgur.com/ozQ6VtU.jpeg)
 
+This is especially important if you are doing a custom loop without the memory being water-cooled as you need your DIMMS to be as cool as possible. This "tweak" seems rather simplistic in nature but in reality, it's a really good way to remedy a lot of temperature issues on your system. In rare cases (no pun intended) this small change can drop certain temperatures by 15-30c. It's that significant, it's that important.
+
+Make this change today and revel in the difference.
+
+
