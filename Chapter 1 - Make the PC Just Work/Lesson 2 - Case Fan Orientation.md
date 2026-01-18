@@ -24,5 +24,5 @@ Rear Fan: (Again, so hot air can leave the case)
 
 Please refer to the below infographic for more information:
 
-![airflow orientation image](https://ibb.co/wNpwbjcD)
+![airflow orientation image](https://ibb.co/wNpwbjcD.jpg)
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
