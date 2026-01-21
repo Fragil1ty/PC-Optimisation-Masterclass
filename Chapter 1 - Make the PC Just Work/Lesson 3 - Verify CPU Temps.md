@@ -26,4 +26,6 @@ How to do you know if you have bad contact? Well, once you enter the BIOS, the t
 
 2: Again, using AIDA we want to head to the overclocking section of the application and run a "CPU" stress test, so click "CPU" > Start and leave it for 5-minutes and see how it performs, look at the heat, see if it stablises and stays 'flat'.
 
-3: Finally, we're going to throw something a little bit more heavy at the CPU. This where XTU, Prime95 or OCCT comes in. Choose whatever you're most comfortable with, give it a further 5-minutes and see how things progress from there. Again, make sure that your temperatures stablise and go from there.
+3: Finally, we're going to throw something a little bit more heavy at the CPU. This where XTU, Prime95 (Large FFT) or OCCT (Large FFT) comes in. Choose whatever you're most comfortable with, give it a further 5-minutes and see how things progress from there. Again, make sure that your temperatures stablise and go from there.
+
+Once you have a fully stable CPU from a heat perspective? i.e. there aren't random fluctuations in temperature on stock windows or in BIOS? Then you're ready to go onto the next lesson. 
