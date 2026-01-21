@@ -23,3 +23,7 @@ How to do you know if you have bad contact? Well, once you enter the BIOS, the t
 # Step 3: Stress testing your CPU
 
 1: Using AIDA > Overclocking icon at the top of the program (fire symbol) > Untick all apart from "Stress System Memory and then click "start". This is good because although it is a RAM stress test, it will hit the CPU at very low power draws and perfect for starting our CPU stress test process. 
+
+2: Again, using AIDA we want to head to the overclocking section of the application and run a "CPU" stress test, so click "CPU" > Start and leave it for 5-minutes and see how it performs, look at the heat, see if it stablises and stays 'flat'.
+
+3: Finally, we're going to throw something a little bit more heavy at the CPU. This where XTU, Prime95 or OCCT comes in. Choose whatever you're most comfortable with, give it a further 5-minutes and see how things progress from there. Again, make sure that your temperatures stablise and go from there.
