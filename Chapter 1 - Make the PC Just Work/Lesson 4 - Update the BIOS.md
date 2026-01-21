@@ -18,4 +18,4 @@ This one can be skipped by a lot of people, it's very straight-forward and a lot
 
 5: Once you're here, click the "EZ Flash Utility" > Select the file and wait.
 
-## Once the update starts, do not turn off the computer.
+>Once the update starts, do not turn off the computer.
