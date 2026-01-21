@@ -18,4 +18,4 @@ This one can be skipped by a lot of people, it's very straight-forward and a lot
 
 5: Once you're here, click the "EZ Flash Utility" > Select the file and wait.
 
-**ONCE THE UPDATE STARTS DO - NOT - TURN - OFF - YOUR - COMPUTER. WAIT UNTIL IT FINISHES EVEN IF THE SCREEN GOES BLACK.**
+**ONCE THE UPDATE STARTS. !!!DO - NOT - TURN - OFF - YOUR - COMPUTER. WAIT UNTIL IT FINISHES EVEN IF THE SCREEN GOES BLACK!!!**
