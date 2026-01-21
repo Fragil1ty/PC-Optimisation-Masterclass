@@ -9,3 +9,9 @@ This one can be skipped by a lot of people, it's very straight-forward and a lot
 2: If you're finding that your new pendrive/penstick isn't appearing properly within Windows Explorer? i.e. it's blank, it's got no file size/free space next to it? It just means it's currently an unallocated disk and it needs be allocated before use.
 
 2.1: How to do this? Start > Disk management > Create and Format Hard disk partitions > right click your pen drive > new simple volume > FAT32 > you're done.
+
+3: Where would I find get the latest version of my BIOS from? Your manfacuterers website, such as: https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-apex/helpdesk_bios/ > Downloada the files > drag into your pen drive and then restart!
+
+4: Head into your bios and find the Instant flash, ez flash or flash button located in your BIOS settings, it will look something like this:
+
+![bios-settings-flash](https://bytespeed.com/wp-content/uploads/2024/06/4fc5625f-3a11-41f2-8575-a76c88658ea3.jpg)
