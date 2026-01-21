@@ -15,3 +15,7 @@ This one can be skipped by a lot of people, it's very straight-forward and a lot
 4: Head into your bios and find the Instant flash, ez flash or flash button located in your BIOS settings, it will look something like this:
 
 ![bios-settings-flash](https://bytespeed.com/wp-content/uploads/2024/06/4fc5625f-3a11-41f2-8575-a76c88658ea3.jpg)
+
+5: Once you're here, click the "EZ Flash Utility" > Select the file and wait.
+
+**ONCE THE UPDATE STARTS DO - NOT - TURN - OFF - YOUR - COMPUTER. WAIT UNTIL IT FINISHES EVEN IF THE SCREEN GOES BLACK.**
